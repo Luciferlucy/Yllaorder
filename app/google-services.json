@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "495560403777",
+    "firebase_url": "https://yllaorder-default-rtdb.firebaseio.com",
+    "project_id": "yllaorder",
+    "storage_bucket": "yllaorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495560403777:android:5487284cb0f44ee029cfc0",
+        "android_client_info": {
+          "package_name": "maister.a.yllaorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495560403777-babubhv4p4j2nr6visc2pklr6i915mph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maister.a.yllaorder",
+            "certificate_hash": "4034e6886ad99bfdd1c5f4e16a58d50f758c1a58"
+          }
+        },
+        {
+          "client_id": "495560403777-nnkgedv6b5dpem3gngpu79dhsj0kvmla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maister.a.yllaorder",
+            "certificate_hash": "5e21e983e13e00467270a5b2e2a8fd17865783bb"
+          }
+        },
+        {
+          "client_id": "495560403777-rckodu9e1pb13ki0q2n1tje0lbpbu05p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maister.a.yllaorder",
+            "certificate_hash": "e60c4af539d83f9b753ae4b08190a40ada14c87b"
+          }
+        },
+        {
+          "client_id": "495560403777-tt0nc5lion9k48jf8eiupp0ufpnmar3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maister.a.yllaorder",
+            "certificate_hash": "4736e39f20305bc853617329b46e3404874073a6"
+          }
+        },
+        {
+          "client_id": "495560403777-bq755u1pfpsgqs4ghekq3aje0ne1p59b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jgLbAt9sPKzZKFU4oJbiHCkt_NsvR2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495560403777-bq755u1pfpsgqs4ghekq3aje0ne1p59b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495560403777:android:00ffb1568890855629cfc0",
+        "android_client_info": {
+          "package_name": "yllaorder.multivendor.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495560403777-3tuqrrb9djuorvpfgq23fasubq7fockd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yllaorder.multivendor.vendor",
+            "certificate_hash": "4034e6886ad99bfdd1c5f4e16a58d50f758c1a58"
+          }
+        },
+        {
+          "client_id": "495560403777-bq755u1pfpsgqs4ghekq3aje0ne1p59b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jgLbAt9sPKzZKFU4oJbiHCkt_NsvR2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495560403777-bq755u1pfpsgqs4ghekq3aje0ne1p59b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
